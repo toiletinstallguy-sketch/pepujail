@@ -1,0 +1,13 @@
+[
+  {
+    "id": "r_0_1765231770551",
+    "tokenAddress": "0xdb9da116a22a6bc0c6b1cb48eaa4393f166319f5",
+    "type": "arrest",
+    "reason": "Rug Pull",
+    "details": "took tokens and dipped",
+    "txHash": "0xdb9da116a22a6bc0c6b1cb48eaa4393f166319f5",
+    "reporter": null,
+    "amount": 1000,
+    "timestamp": 1765231770551
+  }
+]
