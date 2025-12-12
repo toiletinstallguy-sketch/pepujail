@@ -1,5 +1,19 @@
 [
   {
+    "id": "r_1765563004113_494499",
+    "createdAt": 1765563004113,
+    "actionType": "bail",
+    "tokenAddress": "0xdb9da116a22a6bc0c6b1cb48eaa4393f166319f5",
+    "tokenSymbol": "JAIL",
+    "reporterName": "mitchell",
+    "reason": "Other",
+    "details": "",
+    "txHash": "",
+    "isPaid": false,
+    "treasuryWallet": "0xf4550eeb513e46c6bf834118ee101660a6bad9ec",
+    "expectedFee": 5000
+  },
+  {
     "id": "r_0_1765231770551",
     "tokenAddress": "0xdb9da116a22a6bc0c6b1cb48eaa4393f166319f5",
     "type": "arrest",
